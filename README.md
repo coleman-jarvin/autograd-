@@ -55,7 +55,3 @@ optimizer.zero_grad() → clear gradients for next step
 - TorchVision
 
 ---
-
-## Reference
-
-[PyTorch Official Tutorial — A Gentle Introduction to torch.autograd](https://pytorch.org/tutorials/beginner/blitz/autograd_tutorial.html)
