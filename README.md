@@ -1,4 +1,4 @@
-# Gentle Introduction to `torch.autograd`
+Autograd
 
 Working through PyTorch's official autograd tutorial — understanding how automatic differentiation drives neural network training.
 
